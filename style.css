@@ -78,7 +78,7 @@ p{
 button{
     font-size:larger;
     font-weight: 400;
-    cursor: pointer;
+  /*  cursor: pointer; */
 }
 #Front-End button:hover{
     background-color: orangered;
