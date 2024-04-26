@@ -14,8 +14,9 @@ button {
     padding: 2px;
     position: sticky;
 }
-#nav button:hover {
+#nav button{
     background-color: gray;
+    cursor: none;
 }
 
 body{
@@ -82,19 +83,24 @@ button{
 }
 #Front-End button{
     background-color: orangered;
+    cursor: none;
 }
-#Back-End button:hover{
+#Back-End button{
     background-color: rgb(24, 243, 86);
+    cursor: none;
 }
 #Database button:hover{
     background-color: rgb(0, 157, 249);
+    cursor: none;
 }
-#Additional-Language button:hover{
+#Additional-Language button{
     background-color: rgb(244, 84, 111);
+    cursor: none;
 }
 
-#Contact button:hover{
+#Contact button{
     background-color: cadetblue;
+    cursor: none;
 }
 
 
