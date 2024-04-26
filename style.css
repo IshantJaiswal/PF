@@ -80,7 +80,7 @@ button{
     font-weight: 400;
   /*  cursor: pointer; */
 }
-#Front-End button:hover{
+#Front-End button{
     background-color: orangered;
 }
 #Back-End button:hover{
